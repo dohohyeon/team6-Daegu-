@@ -10,8 +10,8 @@
 
 
 ## 데이터 출처
-1. 지자체별 대상사고통계 , https://opendata.koroad.or.kr/
-2.스쿨존 내 어린이 사고 다발지역 ,https://opendata.koroad.or.kr/
-3.어린이집·유치원 통합정보 공시 , www.childinfo.go.kr
-4.도로정보 및 교통량 , https://opendata.koroad.or.kr/
-5.대구광역시_횡단보도 https://opendata.koroad.or.kr/
+1. 지자체별 대상사고통계 , https://opendata.koroad.or.kr/ <br>
+2.스쿨존 내 어린이 사고 다발지역 ,https://opendata.koroad.or.kr/ <br>
+3.어린이집·유치원 통합정보 공시 , www.childinfo.go.kr <br>
+4.도로정보 및 교통량 , https://opendata.koroad.or.kr/ <br>
+5.대구광역시_횡단보도 https://opendata.koroad.or.kr/ <br>
